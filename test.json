@@ -1,0 +1,48 @@
+{
+    "aud": "oel",
+    "acr": "4",
+    "scope": [
+        "particulier.bancaire",
+        "particulier.detention",
+        "particulier.carte"
+    ],
+    "https://desj/sjti": "94cc2388-0396-3fd9-804e-f79ac3b32731",
+    "sub": "accesweb-520020115947596361",
+    "iss": "PISE",
+    "iat": 1604583828,
+    "exp": 9999999999,
+    "jti": "ccab8bf3-cda4-420c-b4c8-2a9aefc0f246",
+    "https://desj/user_type": "MembreClient",
+    "https://desj/contexteApplicatif": "ADP",
+    "https://desj/nomDomaineVirtuel": "Desjardins",
+    "https://desj/userContext": "94cc2388-0396-3fd9-804e-f79ac3b32731",
+    "https://desj/userid_list": [
+        {
+            "https://desj/userid_type": "MSD",
+            "https://desj/userid": "4540022729962657"
+        },
+        {
+            "https://desj/userid_type": "PDOP",
+            "https://desj/userid": "00009421217"
+        }
+    ],
+    "https://desj/identifiantUnique": "520020115947596361",
+    "https://desj/sessionContext": {
+        "https://desj/type_appareil": "Fureteur",
+        "https://desj/developpement": {
+            "uriAW": "http://wdappc17.accweb.mouvdev.desjardins.com:37024",
+            "centrale": "IMTK",
+            "uriAccesD": "http://wdappc14.accesd.mouvdev.desjardins.com:57021",
+            "lettreCentrale": "Q"
+        },
+        "https://desj/application_native": false,
+        "https://desj/sjti": "94cc2388-0396-3fd9-804e-f79ac3b32731",
+        "https://desj/canal": "Web"
+    },
+    "https://desj/canal": "Web",
+    "https://desj/userid": "4540022729962657",
+    "https://desj/responsableDossierAccesD": {
+        "https://desj/numeroInstitution": "815",
+        "https://desj/numeroTransit": "20272"
+    }
+}
